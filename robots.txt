@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://global-policing.github.io/archive
+
+# Sitemaps
+Sitemap: https://global-policing.github.io/archive/sitemap.xml
