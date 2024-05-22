@@ -1,18 +1,26 @@
 {
-  "collection": "https://raw.githubusercontent.com/abolition-now/manifests/main/collections/blue.json",
-  "metadata": ["Subject"],
-  "featured": [
-    "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0003_seoulsongpa.json"
-  ],
-  "label": { "none": ["policing murals"] },
-  "summary": {
-    "none": ["Brief description of the site and its contents."]
-  },
-  "theme": {
-    "defaultTheme": "dark",
-    "accentColor": "indigo",
-    "grayColor": "olive",
-    "radius": "small",
-    "scaling": "100%"
-  }
+    "collection": "https://raw.githubusercontent.com/abolition-now/manifests/main/collections/blue.json",
+    "metadata": [
+        "Subject"
+    ],
+    "featured": [
+        "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0003_seoulsongpa.json"
+    ],
+    "label": {
+        "none": [
+            "policing murals"
+        ]
+    },
+    "summary": {
+        "none": [
+            "Brief description of the site and its contents."
+        ]
+    },
+    "theme": {
+        "defaultTheme": "dark",
+        "accentColor": "indigo",
+        "grayColor": "olive",
+        "radius": "small",
+        "scaling": "100%"
+    }
 }
